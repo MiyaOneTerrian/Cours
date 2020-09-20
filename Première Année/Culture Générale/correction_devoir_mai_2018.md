@@ -1,0 +1,2 @@
+L'individualisme :
+  - L'ambition : 

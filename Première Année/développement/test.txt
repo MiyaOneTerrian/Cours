@@ -1,0 +1,7 @@
+Nom Client : Jean 	 	 Prénom Client : Jean
+Date de la facture : 05-12-2019 
+Le Nombre de produits est de : 6
+
+ Désignation 	 Prix Unitaire 	 Quantité
+Tomate 	 12.500000 	 1234 
+Le total à payer est de : 15425.000000

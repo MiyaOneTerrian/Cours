@@ -1,0 +1,7 @@
+Nom Client : Jean 	 	 Prénom Client : Jean
+Date de la facture : 12-12-2018 
+Le Nombre de produits est de : 4
+
+ Désignation 	 Prix Unitaire 	 Quantité
+Jambon 	 12.500000 	 12 
+Le total à payer est de : 150.000000

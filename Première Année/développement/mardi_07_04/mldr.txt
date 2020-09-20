@@ -1,0 +1,5 @@
+professeur(idprof, nom, prenom, dateEmbauche)
+classes(idclasse, nom, salle, diplome)
+materiel(idmateriel,designation, dateachat,montant)
+emprunter(#idprof, #idmateriel, dateEmprunt, heureEmprunt, rapport)
+assurer(#idclasse, #idprof, #idcours, annee)
